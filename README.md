@@ -35,7 +35,8 @@
 </p>
 
 <br/><br/><br/>
-<h3 align="center">What I Use</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CodeWithTamim&show_icons=true&theme=gotham" alt="CodeWithTamim" />
+<br/><br/><br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -50,8 +51,6 @@
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CodeWithTamim&show_icons=true&theme=gotham" alt="CodeWithTamim" />
 
 <br/>
