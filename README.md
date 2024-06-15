@@ -50,4 +50,6 @@
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+https://github-readme-stats.vercel.app/api?username=CodeWithTamim&show_icons=true&theme=gotham
+
 <br/>
