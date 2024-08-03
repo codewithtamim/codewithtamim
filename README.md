@@ -10,7 +10,7 @@
 
 <p align="center">
   ✨ &emsp; I enjoy programming and sharing knowledge.<br><br>
-  ❤️ &emsp; I love writing code and learning new features.<br><br>
+  ❤️ &emsp; I love writing code that works,learning new features and doing opensoure contributions.<br><br>
   💬 &emsp; Ask me about anything <a href="https://github.com/CodeWithTamim/CodeWithTamim/issues">here</a>
 </p>
 
