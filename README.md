@@ -3,33 +3,14 @@
     <b><a href="https://nasahacker.com" target="_blank">Tamim Hossain</a></b>
   </samp>
 </h3>
-
-<p align="center">
-  <samp>
-    <a href="mailto:tamimh.dev@gmail.com">📧 Mail me</a><br>
-    <span>I'm a passionate Android developer from <b>My Room</b></span><br><br>
-  </samp>
-</p>
-
-<p align="center">
-  <a href="https://nasahacker.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
-  </a>
-</p>
-
 <br />
 
 <!-- About Section -->
 <h1 align="center">About Me</h1>
 
 <p align="center">
-  <img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
-</p>
-
-<p align="center">
   ✨ &emsp; I enjoy programming and sharing knowledge.<br><br>
   ❤️ &emsp; I love writing code and learning new features.<br><br>
-  📧 &emsp; Reach me anytime: <a href="mailto:tamimh.dev@gmail.com">tamimh.dev@gmail.com</a><br><br>
   💬 &emsp; Ask me about anything <a href="https://github.com/CodeWithTamim/CodeWithTamim/issues">here</a>
 </p>
 
@@ -84,5 +65,8 @@
   </a>
   <a href="https://github.com/CodeWithTamim" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://nasahacker.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
   </a>
 </p>
