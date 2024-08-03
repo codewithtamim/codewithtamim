@@ -2,14 +2,10 @@
 
 ## Recent Open Source Contributions
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithTamim&theme=dark)](https://github.com/CodeWithTamim)
-
-<br /><br /><br />
-
+<br />
 ## Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodeWithTamim&theme=darkhub&row=1&column=6)
-
-<br /><br /><br />
-
+<br />
 ## Tools And Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -21,9 +17,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
-
-<br /><br />
-
+<br />
 ## Contact
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeWithTamim)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamimh.dev@gmail.com)
