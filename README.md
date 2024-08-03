@@ -1,41 +1,41 @@
 <h3 align="center">
-  <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://nasahacker.com">Tamim Hossain</a></b>
+  <samp>&gt; Hey There! I am
+    <b><a href="https://nasahacker.com" target="_blank">Tamim Hossain</a></b>
   </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    <a href="mailto:tamimh.dev@gmail.com">「 Mail me 」</a>
-    <br>
-    「 I am a passionate Android developer from <b>My Room</b> 」
-    <br><br>
+    <a href="mailto:tamimh.dev@gmail.com">📧 Mail me</a><br>
+    <span>I'm a passionate Android developer from <b>My Room</b></span><br><br>
   </samp>
 </p>
 
 <p align="center">
   <a href="https://nasahacker.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nasahacker" />
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
   </a>
 </p>
 <br />
 
 <!-- About Section -->
-<h1 align="center">About me</h1>
+<h1 align="center">About Me</h1>
 
 <p align="center">
-  <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
+  <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" />
 </p>
 
 <p align="left">
-  ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
-  ❤️ &emsp; Love writing code and learning new features<br/><br/>
-  📧 &emsp; Reach me anytime: <a href="mailto:tamimh.dev@gmail.com">tamimh.dev@gmail.com</a><br/><br/>
+  ✨ &emsp; I enjoy programming and sharing knowledge.<br><br>
+  ❤️ &emsp; I love writing code and learning new features.<br><br>
+  📧 &emsp; Reach me anytime: <a href="mailto:tamimh.dev@gmail.com">tamimh.dev@gmail.com</a><br><br>
   💬 &emsp; Ask me about anything <a href="https://github.com/CodeWithTamim/CodeWithTamim/issues">here</a>
 </p>
 
 <br/><br/><br/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CodeWithTamim&show_icons=true&theme=blueberry" alt="CodeWithTamim" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithTamim&show_icons=true&theme=blueberry" alt="CodeWithTamim" />
+</p>
 <br/><br/><br/>
 
 <p align="center">
@@ -51,6 +51,12 @@
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-
-
-<br/>
+<!-- Animated icons -->
+<p align="center">
+  <a href="https://github.com/CodeWithTamim">
+    <img src="https://img.shields.io/github/followers/CodeWithTamim?label=Follow&style=social" alt="Follow" />
+  </a>
+  <a href="https://twitter.com/TamimHossain01">
+    <img src="https://img.shields.io/twitter/follow/TamimHossain01?label=Follow&style=social" alt="Twitter" />
+  </a>
+</p>
