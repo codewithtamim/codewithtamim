@@ -35,7 +35,7 @@
 </p>
 
 <br/><br/><br/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CodeWithTamim&show_icons=true&theme=merko" alt="CodeWithTamim" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CodeWithTamim&show_icons=true&theme=blueberry" alt="CodeWithTamim" />
 <br/><br/><br/>
 
 <p align="center">
