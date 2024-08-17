@@ -1,26 +1,26 @@
 # Hey! I'm Tamim Hossain
 
-## Recent Open Source Contributions
+## 🚀 Recent Open Source Contributions
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithTamim&theme=dark)](https://github.com/CodeWithTamim)
 
 ---
 
-## Trophies
+## 🏆 Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CodeWithTamim&theme=darkhub&row=1&column=6)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithTamim&show_icons=true&theme=dark)
 
 ---
 
-## Most Used Languages
+## 🌐 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithTamim&layout=compact&theme=dark)
 
 ---
 
-## Tools and Technologies
+## 🛠️ Tools and Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-## Contact
+## 📫 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeWithTamim)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamimh.dev@gmail.com)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NasaHacker33200)
