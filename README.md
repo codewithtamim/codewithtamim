@@ -1,4 +1,6 @@
 # Hey! I'm Tamim Hossain
+![](https://komarev.com/ghpvc/?username=CodeWithTamim&color=brightgreen&style=plastic)
+---
 
 ## 🚀 Recent Open Source Contributions
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithTamim&theme=dark)](https://github.com/CodeWithTamim)
