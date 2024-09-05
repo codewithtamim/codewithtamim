@@ -1,5 +1,6 @@
 # Hey! I'm Tamim Hossain
-![](https://komarev.com/ghpvc/?username=CodeWithTamim&color=brightgreen&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=CodeWithTamim&color=brightgreen&style=plastic)
+
 ---
 
 ## 🚀 Recent Open Source Contributions
@@ -22,11 +23,10 @@
 
 ---
 
-
 ## 🛠️ Tools and Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-0095D5?style=for-the-badge&logo=Swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Swift UI](https://img.shields.io/badge/SwiftUi-0095D5?style=for-the-badge&logo=Swift&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
