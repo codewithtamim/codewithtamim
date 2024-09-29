@@ -45,3 +45,8 @@
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NasaHacker33200)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithTamim)
 [![Website](https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white)](https://nasahacker.com)
+
+## 🤝 Hire For Work
+[![Fiverr](https://img.shields.io/badge/Fiverr-28BF3B?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/tamim8610/) 
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d43471ecbc716bd0)
+[![Freelancer](https://img.shields.io/badge/Freelancer-4F8BFF?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/nasahacker)
