@@ -9,7 +9,6 @@
 
 ## 📊 GitHub Stats & Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithTamim&theme=tokyonight&hide_border=true)](https://github.com/CodeWithTamim)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithTamim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithTamim&layout=compact&theme=tokyonight&hide_border=true)
 ![](https://github.com/CodeWithTamim/CodeWithTamim/blob/output/github-contribution-grid-snake-dark.svg)
 
