@@ -1,3 +1,4 @@
+"""
 # 👋 Hey! I'm Tamim Hossain
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeWithTamim&color=brightgreen&style=plastic)
@@ -6,19 +7,11 @@
 
 ---
 
-## 🚀 Recent Open Source Contributions
+## 📊 GitHub Stats & Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithTamim&theme=tokyonight&hide_border=true)](https://github.com/CodeWithTamim)
-
----
-
-## 🏆 GitHub Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=CodeWithTamim&theme=dracula&row=1&column=6&no-frame=true&margin-w=15)
-
----
-
-## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithTamim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithTamim&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github.com/CodeWithTamim/CodeWithTamim/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -44,8 +37,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithTamim)
 [![Website](https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white)](https://nasahacker.com)
 
-___
-
-## Contributions
-
-![](https://github.com/CodeWithTamim/CodeWithTamim/blob/output/github-contribution-grid-snake-dark.svg)
+---
