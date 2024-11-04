@@ -1,4 +1,3 @@
-"""
 # 👋 Hey! I'm Tamim Hossain
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeWithTamim&color=brightgreen&style=plastic)
