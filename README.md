@@ -1,11 +1,5 @@
 # 👋 Hey! I'm Tamim Hossain
-
-![Profile Views](https://komarev.com/ghpvc/?username=CodeWithTamim&color=brightgreen&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/CodeWithTamim?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/CodeWithTamim?style=flat-square)
-
 ---
-
 ## 📊 GitHub Stats & Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithTamim&theme=tokyonight&hide_border=true)](https://github.com/CodeWithTamim)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithTamim&layout=compact&theme=tokyonight&hide_border=true)
