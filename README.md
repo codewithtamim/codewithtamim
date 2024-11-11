@@ -1,8 +1,8 @@
 # 👋 Hey! I'm Tamim Hossain
 
-![Profile Views](https://komarev.com/ghpvc/?username=CodeWithTamim&color=brightgreen&style=plastic)
-![GitHub Followers](https://img.shields.io/github/followers/CodeWithTamim?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/CodeWithTamim?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=CodeWithTamim&color=brightgreen&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/CodeWithTamim?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/CodeWithTamim?style=flat-square)
 
 ---
 
@@ -17,23 +17,27 @@
 [![Google Play](https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8233734185684714772)
 
 ---
-### 🌐 Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Go](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 📊 Databases
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySql](https://img.shields.io/badge/Mysql-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-### 🔨 Other Tech & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+### 🌐 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
+### 📊 Databases
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white) 
 
+---
+
+### 🔨 Other Tech & Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+---
 
 ## 📫 Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeWithTamim)
