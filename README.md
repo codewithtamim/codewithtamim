@@ -1,6 +1,6 @@
 # Hello 👋, I'm Tamim Hossain
 **I develop for Mobile & Backend**  
-## 🌐 Languages I Code In
+# 🌐 Languages I Code In
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
