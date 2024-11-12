@@ -1,5 +1,5 @@
 # Hello 👋, I'm Tamim Hossain
-**Building mobile apps & backend systems with a dash of code magic!** ✨
+## Building mobile apps & backend systems with a dash of code magic! ✨
 
 ## 🌐 Languages I Code In
 <p align="left">
