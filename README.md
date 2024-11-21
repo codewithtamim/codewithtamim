@@ -22,7 +22,7 @@
 
 ---
 
-## ⚙️ Tech & Tools
+## ⚙️ Tech & Tools I use
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
