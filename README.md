@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Tamim Hossain!
-**Crafting mobile apps and backend systems with a touch of code magic** ✨ 
+**Building innovative mobile applications and backend systems with precision and creativity.**  
 ---
 
 ## 🧑‍💻 Languages I Code In
