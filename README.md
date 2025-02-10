@@ -10,7 +10,7 @@ I'm passionate about modern Android development, and here are some of my favorit
 - **NDK & Low-Level Development**  
 
 ## 🔨 Projects in Progress  
-- 🔭 Currently working on: **[Convertit](https://github.com/CodeWithTamim/Converrtit)**  
+- 🔭 Currently working on: **[Convertit](https://github.com/CodeWithTamim/Convertit)**  
 ---
 ### Languages I Code In  
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
