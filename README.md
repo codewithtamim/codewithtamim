@@ -1,62 +1,39 @@
-# 👋 Hello, I'm Tamim Hossain!
-**Building innovative mobile applications and backend systems with precision and creativity.**   
---- 
-      
-## 🧑‍💻 Languages I Code In (Order of proficiency)
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-</p>
+# 👋 Hello, I'm Tamim  
+
+I love building **mobile apps** and contributing to **open-source** projects. Also, I love **cats** 🐱.  
+
+## Favorite Android Topics  
+I'm passionate about modern Android development, and here are some of my favorite topics:  
+- **Jetpack Compose** (UI / Compiler / UI State)  
+- **Kotlin & Coroutines**  
+- **MVVM & Clean Architecture**  
+- **NDK & Low-Level Development**  
+
+## 🔨 Projects in Progress  
+- 🔭 Currently working on: **[Convertit](https://github.com/CodeWithTamim/Converrtit)**  
 
 ---
 
-## 🗄️ Databases I Work With
-<p align="left">
-  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithTamim&show_icons=true&count_private=true&hide_border=true&theme=tokyonight) 
 
 ---
 
-## ⚙️ Frameworks & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Jetpack_Compose-343434?style=for-the-badge&logo=jetpack-compose" alt="Compose">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
+## Languages I Code In  
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+
+## Frameworks & Libraries  
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-343434?style=for-the-badge&logo=jetpack-compose) ![Android Jetpack](https://img.shields.io/badge/Android_Jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+
+## DevOps & Cloud  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
+
+## Other Tools & Tech  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
-## 📬 Connect with Me
-<p align="left">
-  <a href="https://t.me/CodeWithTamim" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://github.com/CodeWithTamim" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://nasahacker.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats & Contributions
-<p align="left">
-  <a href="https://github.com/CodeWithTamim">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithTamim&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-  </a>
-  <a href="https://github.com/CodeWithTamim">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithTamim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://github.com/CodeWithTamim/CodeWithTamim/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions Snake">
-</p>
+## Social Links  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeWithTamim)  [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithTamim) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamim-hossain-b186b131b/)
+ [![Website](https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://nasahacker.com)  
