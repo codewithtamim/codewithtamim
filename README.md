@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tamim  
 
-I love building **mobile apps** and contributing to **open-source** projects. Also, I love **cats** 🐱.  
+##### I love building **mobile apps** and contributing to **open-source** projects. Also, I love **cats** 🐱.  
 
 ## Favorite Android Topics  
 I'm passionate about modern Android development, and here are some of my favorite topics:  
