@@ -27,8 +27,7 @@ I'm passionate about modern Android development, and here are some of my favorit
 ---
 ### Social Links  
 [![MonkeyType](https://img.shields.io/badge/MonkeyType-yellow?style=for-the-badge&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/codewithtamim)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeWithTamim)  [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithTamim) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamim-hossain-b186b131b/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeWithTamim)
 [![Website](https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://nasahacker.com)  
 
  
