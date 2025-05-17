@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Tamim  
 
-##### Founder And Lead Developer at [The Byte Array](https://thebytearray.org), a non-profit organization building privacy-focused open-source solutions for a better digital life.
+#### Founder And Lead Developer at [The Byte Array](https://thebytearray.org), a non-profit organization building privacy-focused open-source solutions for a better digital life.
 
 
-Passionate about **Network Programming** and **Modern Android Development**, with deep expertise in:
+I'm passionate about **Network Programming** and **Modern Android Development**, with deep expertise in:
 - **Jetpack Compose** (UI / Compiler / UI State)  
 - **Kotlin & Coroutines**  
 - **MVVM & Clean Architecture**  
@@ -28,6 +28,6 @@ Passionate about **Network Programming** and **Modern Android Development**, wit
 ### Social Links  
 [![MonkeyType](https://img.shields.io/badge/MonkeyType-yellow?style=for-the-badge&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/codewithtamim)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeWithTamim)
-[![Website](https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://nasahacker.com)  
+[![Website](https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://thebytearray.org)  
 
  
