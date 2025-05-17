@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Tamim  
 
-##### I love building **mobile apps** and contributing to **open-source** projects. Also, I love **cats** 🐱.  
+##### Founder And Lead Developer at [The Byte Array](https://thebytearray.org), a non-profit organization building privacy-focused open-source solutions for a better digital life.
 
-## Favorite Android Topics  
-I'm passionate about modern Android development, and here are some of my favorite topics:  
+
+Passionate about **Network Programming** and **Modern Android Development**, with deep expertise in:
 - **Jetpack Compose** (UI / Compiler / UI State)  
 - **Kotlin & Coroutines**  
 - **MVVM & Clean Architecture**  
