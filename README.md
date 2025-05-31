@@ -2,18 +2,29 @@
 
 #### Founder And Lead Developer at [The Byte Array](https://thebytearray.org), a non-profit organization building privacy-focused open-source solutions for a better digital life.
 
+Passionate about **Network Programming** and **Mobile Development**, specializing in VPN/Proxy technologies and secure communication systems.
 
-I'm passionate about **Network Programming**, **Modern Mobile Development**, and building secure communication systems from the ground up.  
-Currently focused on developing **VPN-related technologies almost from scratch**, combining low-level networking with modern software design.
-
-My favourite topics in Android Includes : 
+#### My favourite topics in Android Includes : 
 - **Jetpack Compose** (UI / Compiler / UI State)  
 - **Kotlin & Coroutines**  
 - **MVVM & Clean Architecture**  
 - **NDK & Low-Level Development**  
 
-## 🔨 Projects in Progress  
-- 🔭 Currently working on: **[Convertit](https://github.com/CodeWithTamim/Convertit)**  
+## My Projects
+
+### Mobile Applications
+- **[ConvertIt](https://github.com/TheByteArray/Convertit)** - Ad-free Android app for converting audio and video files to various formats (FLAC, MP3, WAV, etc.)
+- **[H2Byte](https://github.com/TheByteArray/H2Byte)** - Android client for Hysteria2, a lightning-fast and censorship-resistant proxy protocol
+
+### Libraries & SDKs
+- **[WGAndroidLib](https://github.com/CodeWithTamim/WGAndroidLib)** - Lightweight Android library for WireGuard VPN integration with easy management and monitoring
+- **[XrayKit](https://github.com/TheByteArray/XrayKit)** - Lightweight solution for running Xray core on Apple devices (iOS/macOS)
+- **[libHysteria2](https://github.com/CodeWithTamim/libHysteria2)** - Wrapper around Hysteria2 to improve client development experience
+
+### Open Source Contributions
+- **[v2rayNG](https://github.com/2dust/v2rayNG)** - Contributing to popular Android VPN client
+- **[libXray](https://github.com/XTLS/libXray)** - Contributing to Xray core library development
+
 ---
 ### Languages I Code In  
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  
