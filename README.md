@@ -3,7 +3,7 @@
 #### Founder And Lead Developer at [The Byte Array](https://thebytearray.org), a non-profit organization building privacy-focused open-source solutions for a better digital life.
 
 
-I'm passionate about **Network Programming** and **Modern Android Development**, with deep expertise in:
+I'm passionate about **Network Programming** and **Modern Mobile Development**, with deep expertise in:
 - **Jetpack Compose** (UI / Compiler / UI State)  
 - **Kotlin & Coroutines**  
 - **MVVM & Clean Architecture**  
