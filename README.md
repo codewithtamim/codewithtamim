@@ -23,6 +23,7 @@ Passionate about **Network Programming** and **Mobile Development**, specializin
 
 ### Open Source Contributions
 - **[v2rayNG](https://github.com/2dust/v2rayNG)** - Contributing to popular Android VPN client
+- **[Xray-Core](https://github.com/XTLS/Xray-core)** - Contributing to Xray core (the best v2ray core out there)
 - **[libXray](https://github.com/XTLS/libXray)** - Contributing to Xray core library development
 
 ---
