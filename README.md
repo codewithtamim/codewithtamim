@@ -15,6 +15,7 @@ Passionate about **Network Programming** and **Mobile Development**, specializin
 ### Mobile Applications
 - **[ConvertIt](https://github.com/TheByteArray/Convertit)** - Ad-free Android app for converting audio and video files to various formats (FLAC, MP3, WAV, etc.)
 - **[H2Byte](https://github.com/TheByteArray/H2Byte)** - Android client for Hysteria2, a lightning-fast and censorship-resistant proxy protocol
+- **[InConnect Client](https://play.google.com/store/apps/details?id=com.qtech.inct)** - Android Xray Client
 
 ### Libraries & SDKs
 - **[WGAndroidLib](https://github.com/CodeWithTamim/WGAndroidLib)** - Lightweight Android library for WireGuard VPN integration with easy management and monitoring
