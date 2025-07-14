@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tamim  
 
-#### Founder And Lead Developer at [The Byte Array](https://thebytearray.org), a non-profit organization building privacy-focused open-source solutions for a better digital life.
+#### Founder And Lead Developer at [The Byte Array](https://thebytearray.org), an organization building privacy-focused open-source solutions for a better digital life.
 
 Passionate about **Network Programming** and **Mobile Development**, specializing in VPN/Proxy technologies and secure communication systems.
 
