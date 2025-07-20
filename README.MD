@@ -43,6 +43,6 @@
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thebytearray.org)  
 
 > [!IMPORTANT]
-> If you message with a query please try to write it briefly in a single message instead of waiting for my reply to your greetings like "Hi"/"Hello". For freelance or contract work works I prefer to receive a brief about the work via mail first then any follow-up questions on Telegram.
+> If you message with a query please try to write it briefly in a single message instead of waiting for my reply to your greetings like "Hi"/"Hello". For freelance or contract work I prefer to receive a brief about the work via mail first then any follow-up questions on Telegram.
 
 
