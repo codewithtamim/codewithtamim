@@ -28,6 +28,7 @@
 - **[Xray-Core](https://github.com/XTLS/Xray-core)** - Added some functionalities that helps its child project libXray [#4775](https://github.com/XTLS/Xray-core/pull/4775).
 - **[libXray](https://github.com/XTLS/libXray)** - Top contributor on it and fixed a serious security issue where attackers can grab the config.json file, added new apis,cert path,state monitoring for improved developer experience and still contributing [#94](https://github.com/XTLS/libXray/pull/94) [#92](https://github.com/XTLS/libXray/pull/92) [#87](https://github.com/XTLS/libXray/pull/87) [#85](https://github.com/XTLS/libXray/pull/85) [#77](https://github.com/XTLS/libXray/pull/77)
 - **[IVPN-Android](https://github.com/ivpn/android-app)** - Added new feature to Obfuscate wireguard using V2ray [#391](https://github.com/ivpn/android-app/pull/391)
+- **[hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel)** - Added 16KB page size for targeting android 15+ [#242](https://github.com/heiher/hev-socks5-tunnel/pull/242)
 
 
 #### Languages I code in
