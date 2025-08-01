@@ -11,7 +11,7 @@
 - VPNService
 - Reverse Engineering
 
-#### Here are some of my most recent projects
+#### Here are some of my most recent projects (Without NDA)
 
 #### Mobile Applications
 
