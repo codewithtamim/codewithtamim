@@ -21,13 +21,13 @@
 - **[InConnect Client (iOS)](https://apps.apple.com/us/app/inconnect-client/id6745726030)** - Commercial iOS Client For Xray
 #### Libraries & SDKs
 - **[WGAndroidLib](https://github.com/TheByteArray/WGAndroidLib)** - A wrapper around wireguard android for easier integration and some extra added features like state,connection,time monitoring.
-- **[libHysteria2](https://github.com/CodeWithTamim/libHysteria2)** - Wrapper around Hysteria2 to improve client development experience
+- **[libHysteria2](https://github.com/thebytearray/libHysteria2)** - Wrapper around Hysteria2 to improve client development experience
 
 #### Some of my Open Source Contributions
 - **[v2rayNG](https://github.com/2dust/v2rayNG)** - Top contributor on it , did critical bug fixes,added wireguard config parsing feature + some more small features which benefits the users and updated some functionalities to work with latest xray core and still contributing. [#3521](https://github.com/2dust/v2rayNG/pull/3521) [#3396](https://github.com/2dust/v2rayNG/pull/3396) [#4022](https://github.com/2dust/v2rayNG/pull/4022) [#3989](https://github.com/2dust/v2rayNG/pull/3989)
 - **[Xray-Core](https://github.com/XTLS/Xray-core)** - Added some functionalities that helps its child project libXray [#4775](https://github.com/XTLS/Xray-core/pull/4775).
 - **[libXray](https://github.com/XTLS/libXray)** - Top contributor on it and fixed a serious security issue where attackers can grab the config.json file, added new apis,cert path,state monitoring for improved developer experience and still contributing [#94](https://github.com/XTLS/libXray/pull/94) [#92](https://github.com/XTLS/libXray/pull/92) [#87](https://github.com/XTLS/libXray/pull/87) [#85](https://github.com/XTLS/libXray/pull/85) [#77](https://github.com/XTLS/libXray/pull/77)
-- **[IVPN-Android](https://github.com/ivpn/android-app)** - Added new feature to Obfuscate wireguard using V2ray [#391](https://github.com/ivpn/android-app/pull/391)
+- **[ivpn-android-app](https://github.com/ivpn/android-app)** - Added new feature to Obfuscate wireguard using V2ray [#391](https://github.com/ivpn/android-app/pull/391)
 - **[hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel)** - Added 16KB page size for targeting android 15+ [#242](https://github.com/heiher/hev-socks5-tunnel/pull/242)
 
 
