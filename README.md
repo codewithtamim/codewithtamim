@@ -21,6 +21,7 @@
 - **[InConnect Client (Android)](https://play.google.com/store/apps/details?id=com.qtech.inct)** - Commercial Android Client For Xray
 - **[InConnect Client (iOS)](https://apps.apple.com/us/app/inconnect-client/id6745726030)** - Commercial iOS Client For Xray
 #### Libraries & SDKs
+- **[ByteUI](https://github.com/thebytearray/ByteUI)** - Byte UI is a UI framework inspired by Shad-CN UI and built using Compose which will be primarliy used for The Byte Array Applications.
 - **[WGAndroidLib](https://github.com/TheByteArray/WGAndroidLib)** - A wrapper around wireguard android for easier integration and some extra added features like state,connection,time monitoring.
 - **[libHysteria2](https://github.com/thebytearray/libHysteria2)** - Wrapper around Hysteria2 to improve client development experience
 
