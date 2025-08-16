@@ -6,6 +6,8 @@
 #### Some of my favourite Android Development topics include: 
 
 - Jetpack Compose
+- Clean Architecture
+- DI
 - Custom Views & Animations
 - NDK & Low Level Development
 - VPNService
