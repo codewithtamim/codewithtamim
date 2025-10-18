@@ -38,7 +38,7 @@
 
 #### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
-
+![Docker Badge](https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=white&style=for-the-badge)
 #### Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamim@thebytearray.org)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeWithTamim)
