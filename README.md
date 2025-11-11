@@ -16,7 +16,6 @@
 #### Here are some of my most recent projects (Without NDA)
 
 #### Mobile Applications
-- **[ConvertIt](https://github.com/TheByteArray/Convertit)** - An ads free audio & video converter and metadata editor app for android powered by ffmpeg.
 - **[H2Byte](https://github.com/TheByteArray/H2Byte)** - A android client for [Hysteria](https://github.com/apernet/hysteria) local proxy app.
 - **[InConnect Client (Android)](https://play.google.com/store/apps/details?id=com.qtech.inct)** - Commercial Android Client For Xray
 - **[InConnect Client (iOS)](https://apps.apple.com/us/app/inconnect-client/id6745726030)** - Commercial iOS Client For Xray
