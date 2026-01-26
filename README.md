@@ -1,5 +1,8 @@
 ### 👋 Hi I'm Tamim
 
+[![Hy2NG](image/hy2ng.svg)](https://play.google.com/store/apps/details?id=org.thebytearray.hy2.ng)
+
+
 #### I'm mostly involved with Network Programming and Android Development these days and passionate about On Device ML and VPN/Proxy technologies.
 
 #### Some of my favourite Android Development topics include: 
@@ -39,8 +42,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamimh.dev@proton.me)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeWithTamim)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thebytearray.org)  
-
-[![Hy2NG](image/hy2ng.svg)](https://play.google.com/store/apps/details?id=org.thebytearray.hy2.ng)
 
 > [!IMPORTANT]
 > If you message with a query please try to write it briefly in a single message instead of waiting for my reply to your greetings like "Hi"/"Hello". For freelance or contract work I prefer to receive a brief about the work via mail first then any
