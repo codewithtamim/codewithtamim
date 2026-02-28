@@ -5,7 +5,7 @@
 <br>
 
 <a href="mailto:tamimh.dev@proton.me">
-  <img src="image/bv.jpg" alt="Business VPN" width="180" height="180" style="object-fit: cover;">
+  <img src="image/bv.jpg" alt="Business VPN" width="300" height="300" style="object-fit: cover;">
 </a>
 
 #### I'm mostly involved with Network Programming and Android Development these days and passionate about On Device ML and VPN/Proxy technologies.
