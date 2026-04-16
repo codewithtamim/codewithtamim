@@ -19,6 +19,7 @@
 #### Here are some of my most recent projects
 
 #### Mobile Applications
+- **[OpenLoader (Android)](https://github.com/thebytearray/OpenLoader)** - App that helps you to sideload apk files on android
 - **[Hy2NG (Android)](https://play.google.com/store/apps/details?id=org.thebytearray.hy2.ng)** - Full-featured Hysteria2 client and server setup tool
 - **[InConnect Client (Android)](https://play.google.com/store/apps/details?id=com.qtech.inct)** - Commercial Android Client For Xray
 - **[InConnect Client (iOS)](https://apps.apple.com/us/app/inconnect-client/id6745726030)** - Commercial iOS Client For Xray
