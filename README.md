@@ -24,6 +24,7 @@
 - **[InConnect Client (Android)](https://play.google.com/store/apps/details?id=com.qtech.inct)** - Commercial Android Client For Xray
 - **[InConnect Client (iOS)](https://apps.apple.com/us/app/inconnect-client/id6745726030)** - Commercial iOS Client For Xray
 #### Libraries & SDKs
+- **[flutter-xray](https://github.com/codewithtamim/flutter-xray)** - A flutter plugin for running xray core engine. Support ios, Mac and Android
 - **[WGAndroidLib](https://github.com/TheByteArray/WGAndroidLib)** - A wrapper around wireguard android for easier integration and some extra added features like state,connection,time monitoring.
 
 #### Some of my Open Source Contributions
