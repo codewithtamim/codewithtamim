@@ -1,8 +1,8 @@
 ### 👋 Hi I'm Tamim
 
-<a href="https://play.google.com/store/apps/details?id=org.thebytearray.convertit"><img src="image/convertit-pro-banner.png" alt="Convertit Pro" width="468"></a>
+<a href="https://play.google.com/store/apps/details?id=org.thebytearray.convertit"><img src="image/convertit-pro-banner.png" alt="Convertit Pro" width="360"></a>
 <br>
-<a href="https://play.google.com/store/apps/details?id=com.nasahacker.convertit"><img src="image/convertit-banner.png" alt="Convertit" width="468"></a>
+<a href="https://play.google.com/store/apps/details?id=com.nasahacker.convertit"><img src="image/convertit-banner.png" alt="Convertit" width="360"></a>
 <br>
 
 
@@ -39,14 +39,14 @@
 
 
 #### Languages I code in
-<img src="image/badge-java.png" alt="Java" height="40"> <img src="image/badge-kotlin.png" alt="Kotlin" height="40"> <img src="image/badge-swift.png" alt="Swift" height="40"> <img src="image/badge-c.png" alt="C" height="40"> <img src="image/badge-go.png" alt="Go" height="40">
+<img src="image/badge-java.png" alt="Java" height="28"> <img src="image/badge-kotlin.png" alt="Kotlin" height="28"> <img src="image/badge-swift.png" alt="Swift" height="28"> <img src="image/badge-c.png" alt="C" height="28"> <img src="image/badge-go.png" alt="Go" height="28">
 
 #### CI/CD
-<img src="image/badge-github-actions.png" alt="GitHub Actions" height="40"> <img src="image/badge-docker.png" alt="Docker" height="40">
+<img src="image/badge-github-actions.png" alt="GitHub Actions" height="28"> <img src="image/badge-docker.png" alt="Docker" height="28">
 #### Contact
-<a href="mailto:tamimh.dev@proton.me"><img src="image/badge-email.png" alt="Email" height="40"></a>
-<a href="https://t.me/CodeWithTamim"><img src="image/badge-telegram.png" alt="Telegram" height="40"></a>
-<a href="https://thebytearray.org"><img src="image/badge-website.png" alt="Website" height="40"></a>
+<a href="mailto:tamimh.dev@proton.me"><img src="image/badge-email.png" alt="Email" height="28"></a>
+<a href="https://t.me/CodeWithTamim"><img src="image/badge-telegram.png" alt="Telegram" height="28"></a>
+<a href="https://thebytearray.org"><img src="image/badge-website.png" alt="Website" height="28"></a>
 
 > [!IMPORTANT]
 > If you message with a query please try to write it briefly in a single message instead of waiting for my reply to your greetings like "Hi"/"Hello". For freelance or contract work I prefer to receive a brief about the work via mail first then any
