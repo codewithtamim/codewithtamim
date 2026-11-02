@@ -1,6 +1,8 @@
 ### 👋 Hi I'm Tamim
 
-[![Hy2NG](image/hy2ng.svg)](https://play.google.com/store/apps/details?id=org.thebytearray.hy2.ng)
+<a href="https://play.google.com/store/apps/details?id=org.thebytearray.convertit"><img src="image/convertit-pro-banner.png" alt="Convertit Pro" width="468"></a>
+<br>
+<a href="https://play.google.com/store/apps/details?id=com.nasahacker.convertit"><img src="image/convertit-banner.png" alt="Convertit" width="468"></a>
 <br>
 
 
@@ -37,14 +39,14 @@
 
 
 #### Languages I code in
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<img src="image/badge-java.png" alt="Java" height="40"> <img src="image/badge-kotlin.png" alt="Kotlin" height="40"> <img src="image/badge-swift.png" alt="Swift" height="40"> <img src="image/badge-c.png" alt="C" height="40"> <img src="image/badge-go.png" alt="Go" height="40">
 
 #### CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker Badge](https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=white&style=for-the-badge)
+<img src="image/badge-github-actions.png" alt="GitHub Actions" height="40"> <img src="image/badge-docker.png" alt="Docker" height="40">
 #### Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamimh.dev@proton.me)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeWithTamim)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thebytearray.org)  
+<a href="mailto:tamimh.dev@proton.me"><img src="image/badge-email.png" alt="Email" height="40"></a>
+<a href="https://t.me/CodeWithTamim"><img src="image/badge-telegram.png" alt="Telegram" height="40"></a>
+<a href="https://thebytearray.org"><img src="image/badge-website.png" alt="Website" height="40"></a>
 
 > [!IMPORTANT]
 > If you message with a query please try to write it briefly in a single message instead of waiting for my reply to your greetings like "Hi"/"Hello". For freelance or contract work I prefer to receive a brief about the work via mail first then any
